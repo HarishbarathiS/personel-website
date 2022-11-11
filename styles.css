@@ -58,14 +58,14 @@ h3{
 }
 
 .pro{
-  background-image: url('images/programming.png');
+  background-image: url('programming.png');
   width:25%;
   float:left;      /* float allows to implement simple layouts involving an image floating inside a column of text */
   margin-right: 40px;
 }
 
 .tri{
-  background-image: url('images/Triathlon snap-modified.png');
+  background-image: url('Triathlon snap-modified.png');
   width: 25%;
   float:right;
   margin-left: 30px;
